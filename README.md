@@ -8,7 +8,7 @@
 
 - 📚 I'm studying computer science and mathematics at  **[Ryerson University](https://www.ryerson.ca/programs/undergraduate/computer-science/)**
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **C**
 
 - 💼 I’m a Solutions Engineer at **[StackAdapt](https://stackadapt.com)**
 
