@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello 👋, I'm Anushan</h1>
-<h3 align="center">a software engineer from Toronto, ON</h3>
+<h3 align="center">a solutions engineer from Toronto, ON</h3>
 
 
 ## <br>🙋‍♂️ About Me <br>
 
 - 📚 I'm studying computer science and mathematics at  **[Ryerson University](https://www.ryerson.ca/programs/undergraduate/computer-science/)**
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **Smalltalk**
 
 - 💼 I’m a Solutions Engineer at **[StackAdapt](https://stackadapt.com)**
 
